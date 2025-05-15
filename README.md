@@ -1,4 +1,4 @@
-¡Perfecto! Estás escribiendo un `README.md` para un proyecto Node.js con un CRUD de usuarios. A continuación te dejo una **versión corregida y prolija** del texto que redactaste, lista para usar como README en GitHub o VSCode:
+
 
 ---
 
